@@ -15,7 +15,7 @@ So, let's connect and explore the endless possibilities that technology offers! 
 </em></p>
 
 [![Linkedin: yamilabraham](https://img.shields.io/badge/-yamilabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yamilabraham/)]
-![GitHub account](https://img.shields.io/github/yamil-abraham?label=Follow&style=social)
+![GitHub account](https://img.shields.io/github/followers/yamil-abraham?label=Follow&style=social)
 
 ### 📫 Like to meet me?
 
